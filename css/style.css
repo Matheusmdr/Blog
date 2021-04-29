@@ -21,8 +21,6 @@ body {
     --white: #ffffff;
     --black: #0f0f0f;
 
-    --sky: linear-gradient(90deg, hsla(210, 90%, 80%, 1) 0%, hsla(212, 93%, 49%, 1) 100%);
-
     --Abel: 'Abel', cursive;
     --Anton: 'Anton', cursive;
     --Josefin: 'Josefin', cursive;
